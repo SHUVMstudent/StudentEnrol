@@ -20,6 +20,7 @@ def course=new Course(title:'Web Systems Design',code:'WSD101',department:'Compu
 course.toString()=='Web Systems Design,WSD101,Computing'
 
         expect:"fix me"(){
+	true==false
             
     }
 }

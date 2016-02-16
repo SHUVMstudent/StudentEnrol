@@ -3,7 +3,8 @@ package com.studentenrol
 class Course {
 
 	String title
-	String leader
+	Leader leader
+	String department
 	String code
 	Date startDate
 	Date endDate
